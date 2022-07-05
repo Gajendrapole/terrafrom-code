@@ -8,9 +8,9 @@ terraform {
 }
 
 provider "google" {
-  credentials = file("tf-api.json")
+  credentials = file("Rohan.json")
 
-  project = "Rohan"
+  project = "rohan-353411"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
