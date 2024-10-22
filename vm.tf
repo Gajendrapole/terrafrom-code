@@ -8,6 +8,7 @@ terraform {
 }
 abcd
 pppppp---adding
+adding main
 provider "google" {
    project = "test-project-365907"
   region  = "us-central1"
